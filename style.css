@@ -1,0 +1,19 @@
+#evaluation-widget {
+  max-width: 800px;
+  font-family: Arial, sans-serif;
+}
+
+fieldset {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+legend {
+  font-weight: bold;
+}
+
+label {
+  display: block;
+  margin: 0.3rem 0;
+}
