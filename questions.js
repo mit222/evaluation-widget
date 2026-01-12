@@ -1,17 +1,17 @@
 export const categories = [
-  { id: "A", label: "Kategorie A" },
-  { id: "B", label: "Kategorie B" },
-  { id: "C", label: "Kategorie C" }
+  { id: "A", label: "Learning Management System" },
+  { id: "B", label: "Autorentool" },
+  { id: "C", label: "Digital Adoption Plattform" }
 ];
 
 export const questions = [
   {
     id: "q1",
-    text: "Wie treffen Sie Entscheidungen?",
+    text: "Welche Herausforderung steht für euch im Vordergrund?",
     answers: [
-      { text: "Datengetrieben", category: "A" },
-      { text: "Erfahrungsbasiert", category: "B" },
-      { text: "Intuitiv", category: "C" }
+      { text: "Fehlende Zentrale Lernplattform", category: "A" },
+      { text: "Aufwändige oder unstrukturierte Inhaltserstellung", category: "B" },
+      { text: "Geringe Nutzung vorhandener Systeme", category: "C" }
     ]
   },
   {
