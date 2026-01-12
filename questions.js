@@ -16,11 +16,14 @@ export const questions = [
   },
   {
     id: "q2",
-    text: "Wie sind Prozesse dokumentiert?",
+    text: "Wie wichtig sind folgende Zielsetzungen?",
     answers: [
-      { text: "Vollständig", category: "A" },
-      { text: "Teilweise", category: "B" },
-      { text: "Kaum", category: "C" }
+      { text: "Schulungen organisieren und dokumentieren", category: "A" },
+      { text: "Lerninhalte bereitstellen", category: "A" },
+      { text: "Interaktive Lerninhalte erstellen", category: "B" },
+      { text: "Mitarbeitende in Anwendungen anlöeiten", category: "C" },
+      { text: "Lernfortschritt messen", category: "C" },
+      { text: "Supportaufwand reduzieren", category: "C" }
     ]
   },
   // … bis q8
